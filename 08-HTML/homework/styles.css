@@ -1,0 +1,43 @@
+body {
+  background-color: #c8f7f7;
+}
+#thirdDiv {
+  position: relative;
+  width:500px;
+  height: 600px;
+  background-color: red;
+  padding: 50px;
+  border: 5px blue;
+}
+.divClass{
+  text-align: center;
+  font-size: 18px;
+}
+  h1{
+    font-size: 50px;
+  }
+#spanId {
+  font-size: 18px;
+  margin: 50px;
+}
+img {
+  position: relative;
+  float: right;
+  top: -300px;
+  height: 250px;
+  width: 400px;
+  margin: 10px;
+  border: 20px;
+}
+p {
+  position: relative;
+  right: -500px;
+  float: left;
+  width: 700px;
+  height: 300px;
+  margin: 10px;
+  font-size: 15px;
+}
+ul{
+  float:right;
+}
